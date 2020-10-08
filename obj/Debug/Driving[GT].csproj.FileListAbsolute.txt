@@ -1,0 +1,35 @@
+C:\Users\FOX\Desktop\Long Cruise City\bin\Debug\LFS External.exe
+C:\Users\FOX\Desktop\Long Cruise City\bin\Debug\LFS External.pdb
+C:\Users\FOX\Desktop\Long Cruise City\obj\Debug\Driving[GT].csprojResolveAssemblyReference.cache
+C:\Users\FOX\Desktop\Long Cruise City\obj\Debug\LFS_External_Client.Form1.resources
+C:\Users\FOX\Desktop\Long Cruise City\obj\Debug\LFS_External.Properties.Resources.resources
+C:\Users\FOX\Desktop\Long Cruise City\obj\Debug\Driving[GT].csproj.GenerateResource.Cache
+C:\Users\FOX\Desktop\Long Cruise City\obj\Debug\LFS External.exe
+C:\Users\FOX\Desktop\Long Cruise City\obj\Debug\LFS External.pdb
+C:\Users\Emir\Desktop\Long Cruise City\obj\Debug\LFS External.exe
+C:\Users\Emir\Desktop\Long Cruise City\obj\Debug\LFS External.pdb
+C:\Users\Emir\Desktop\Long Cruise City\bin\Debug\LFS External.exe
+C:\Users\Emir\Desktop\Long Cruise City\bin\Debug\LFS External.pdb
+C:\Users\Emir\Desktop\Long Cruise City\obj\Debug\Driving[GT].csprojResolveAssemblyReference.cache
+C:\Users\Emir\Desktop\Long Cruise City\obj\Debug\LFS_External_Client.Form1.resources
+C:\Users\Emir\Desktop\Long Cruise City\obj\Debug\LFS_External.Properties.Resources.resources
+C:\Users\Emir\Desktop\Long Cruise City\obj\Debug\Driving[GT].csproj.GenerateResource.Cache
+C:\Users\Emir\Desktop\Long Cruise City\bin\Debug\LFS External.exe.config
+C:\Users\Emir\Desktop\Long Cruise City\bin\Debug\InSimDotNet.dll
+C:\Users\Emir\Desktop\Long Cruise City\bin\Debug\InSimDotNet.pdb
+C:\Users\Emir\Desktop\Long Cruise City\bin\Debug\InSimDotNet.xml
+F:\İnsimler\Long Cruise City\Long Cruise City\bin\Debug\LFS External.exe.config
+F:\İnsimler\Long Cruise City\Long Cruise City\obj\Debug\LFS External.exe
+F:\İnsimler\Long Cruise City\Long Cruise City\obj\Debug\LFS External.pdb
+C:\Users\gs_em\Desktop\Paylaşılacaklar\Long Cruise City\Long Cruise City\obj\Debug\LFS_External_Client.Form1.resources
+C:\Users\gs_em\Desktop\Paylaşılacaklar\Long Cruise City\Long Cruise City\obj\Debug\LFS_External.Properties.Resources.resources
+C:\Users\gs_em\Desktop\Paylaşılacaklar\Long Cruise City\Long Cruise City\obj\Debug\Driving[GT].csproj.GenerateResource.cache
+C:\Users\gs_em\Desktop\Paylaşılacaklar\Long Cruise City\Long Cruise City\obj\Debug\Driving[GT].csproj.CoreCompileInputs.cache
+C:\Users\gs_em\Desktop\Paylaşılacaklar\Long Cruise City\Long Cruise City\obj\Debug\LFS External.exe
+C:\Users\gs_em\Desktop\Paylaşılacaklar\Long Cruise City\Long Cruise City\obj\Debug\LFS External.pdb
+C:\Users\gs_em\Desktop\Paylaşılacaklar\Long Cruise City\Long Cruise City\bin\Debug\LFS External.exe.config
+C:\Users\gs_em\Desktop\Paylaşılacaklar\Long Cruise City\Long Cruise City\bin\Debug\LFS External.exe
+C:\Users\gs_em\Desktop\Paylaşılacaklar\Long Cruise City\Long Cruise City\bin\Debug\LFS External.pdb
+C:\Users\gs_em\Desktop\Paylaşılacaklar\Long Cruise City\Long Cruise City\bin\Debug\InSimDotNet.pdb
+C:\Users\gs_em\Desktop\Paylaşılacaklar\Long Cruise City\Long Cruise City\bin\Debug\InSimDotNet.xml
+C:\Users\gs_em\Desktop\Paylaşılacaklar\Long Cruise City\Long Cruise City\obj\Debug\Driving[GT].csproj.CopyComplete

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="iCS Source">
+</Property><Property Name="Solution File" Value="D:\Data\Teams\Cruise Insim\Archieves\InSim\inline Cruise\iCS Source\iCS Source.sln">
+</Property><Property Name="User Options File" Value="D:\Data\Teams\Cruise Insim\Archieves\InSim\inline Cruise\iCS Source\iCS Source.suo">
+</Property><Property Name="Date" Value="2011年1月15日">
+</Property><Property Name="Time" Value="12:18:午後">
+</Property><Property Name="Log Number" Value="2">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="iCS Source.sln" Description="File successfully backed up as D:\Data\Teams\Cruise Insim\Archieves\InSim\inline Cruise\iCS Source\Backup1\iCS Source.sln">
+</Event><Event ErrorLevel="0" Project="" Source="iCS Source.suo" Description="File successfully backed up as D:\Data\Teams\Cruise Insim\Archieves\InSim\inline Cruise\iCS Source\Backup1\iCS Source.suo">
+</Event><Event ErrorLevel="0" Project="iCS Source" Source="iCS Source.csproj" Description="Project file successfully backed up as D:\Data\Teams\Cruise Insim\Archieves\InSim\inline Cruise\iCS Source\Backup1\iCS Source.csproj">
+</Event><Event ErrorLevel="0" Project="iCS Source" Source="ButtonClick.cs" Description="File successfully backed up as D:\Data\Teams\Cruise Insim\Archieves\InSim\inline Cruise\iCS Source\Backup1\ButtonClick.cs">
+</Event><Event ErrorLevel="0" Project="iCS Source" Source="clsConnection.cs" Description="File successfully backed up as D:\Data\Teams\Cruise Insim\Archieves\InSim\inline Cruise\iCS Source\Backup1\clsConnection.cs">
+</Event><Event ErrorLevel="0" Project="iCS Source" Source="Dealer.cs" Description="File successfully backed up as D:\Data\Teams\Cruise Insim\Archieves\InSim\inline Cruise\iCS Source\Backup1\Dealer.cs">
+</Event><Event ErrorLevel="0" Project="iCS Source" Source="EventTimers.cs" Description="File successfully backed up as D:\Data\Teams\Cruise Insim\Archieves\InSim\inline Cruise\iCS Source\Backup1\EventTimers.cs">
+</Event><Event ErrorLevel="0" Project="iCS Source" Source="FileInfo.cs" Description="File successfully backed up as D:\Data\Teams\Cruise Insim\Archieves\InSim\inline Cruise\iCS Source\Backup1\FileInfo.cs">
+</Event><Event ErrorLevel="0" Project="iCS Source" Source="Form1.cs" Description="File successfully backed up as D:\Data\Teams\Cruise Insim\Archieves\InSim\inline Cruise\iCS Source\Backup1\Form1.cs">
+</Event><Event ErrorLevel="0" Project="iCS Source" Source="Form1.Designer.cs" Description="File successfully backed up as D:\Data\Teams\Cruise Insim\Archieves\InSim\inline Cruise\iCS Source\Backup1\Form1.Designer.cs">
+</Event><Event ErrorLevel="0" Project="iCS Source" Source="ChatCommands.cs" Description="File successfully backed up as D:\Data\Teams\Cruise Insim\Archieves\InSim\inline Cruise\iCS Source\Backup1\ChatCommands.cs">
+</Event><Event ErrorLevel="0" Project="iCS Source" Source="MCI Updates.cs" Description="File successfully backed up as D:\Data\Teams\Cruise Insim\Archieves\InSim\inline Cruise\iCS Source\Backup1\MCI Updates.cs">
+</Event><Event ErrorLevel="0" Project="iCS Source" Source="Program.cs" Description="File successfully backed up as D:\Data\Teams\Cruise Insim\Archieves\InSim\inline Cruise\iCS Source\Backup1\Program.cs">
+</Event><Event ErrorLevel="0" Project="iCS Source" Source="Properties\AssemblyInfo.cs" Description="File successfully backed up as D:\Data\Teams\Cruise Insim\Archieves\InSim\inline Cruise\iCS Source\Backup1\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="iCS Source" Source="Properties\Resources.Designer.cs" Description="File successfully backed up as D:\Data\Teams\Cruise Insim\Archieves\InSim\inline Cruise\iCS Source\Backup1\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="iCS Source" Source="Properties\Settings.Designer.cs" Description="File successfully backed up as D:\Data\Teams\Cruise Insim\Archieves\InSim\inline Cruise\iCS Source\Backup1\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="iCS Source" Source="Properties\Settings.settings" Description="File successfully backed up as D:\Data\Teams\Cruise Insim\Archieves\InSim\inline Cruise\iCS Source\Backup1\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="iCS Source" Source="Command-Prompt.ico" Description="File successfully backed up as D:\Data\Teams\Cruise Insim\Archieves\InSim\inline Cruise\iCS Source\Backup1\Command-Prompt.ico">
+</Event><Event ErrorLevel="0" Project="iCS Source" Source="Control-Panel.ico" Description="File successfully backed up as D:\Data\Teams\Cruise Insim\Archieves\InSim\inline Cruise\iCS Source\Backup1\Control-Panel.ico">
+</Event><Event ErrorLevel="0" Project="iCS Source" Source="Form1.resx" Description="File successfully backed up as D:\Data\Teams\Cruise Insim\Archieves\InSim\inline Cruise\iCS Source\Backup1\Form1.resx">
+</Event><Event ErrorLevel="0" Project="iCS Source" Source="Properties\Resources.resx" Description="File successfully backed up as D:\Data\Teams\Cruise Insim\Archieves\InSim\inline Cruise\iCS Source\Backup1\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="iCS Source" Source="iCS Source.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="iCS Source" Source="iCS Source.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="iCS Source.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="iCS Source.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="iCS Source" Source="iCS Source.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

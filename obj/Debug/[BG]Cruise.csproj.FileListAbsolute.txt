@@ -1,0 +1,36 @@
+C:\Users\Hristiqn\Desktop\gluposti\[BG]Cruise\bin\Debug\LFS External.exe
+C:\Users\Hristiqn\Desktop\gluposti\[BG]Cruise\bin\Debug\LFS External.pdb
+C:\Users\Hristiqn\Desktop\gluposti\[BG]Cruise\obj\Debug\LFS_External_Client.Form1.resources
+C:\Users\Hristiqn\Desktop\gluposti\[BG]Cruise\obj\Debug\LFS_External.Properties.Resources.resources
+C:\Users\Hristiqn\Desktop\gluposti\[BG]Cruise\obj\Debug\[BG]Cruise.csproj.GenerateResource.Cache
+C:\Users\Hristiqn\Desktop\gluposti\[BG]Cruise\obj\Debug\LFS External.exe
+C:\Users\Hristiqn\Desktop\gluposti\[BG]Cruise\obj\Debug\LFS External.pdb
+C:\Users\Hristiqn\Desktop\gluposti\[BG]Cruise\obj\Debug\[BG]Cruise.csprojResolveAssemblyReference.cache
+C:\Users\FeaR\Desktop\[BG]Cruise\obj\Debug\LFS External.exe
+C:\Users\FeaR\Desktop\[BG]Cruise\obj\Debug\LFS External.pdb
+C:\Users\FeaR\Desktop\[BG]Cruise\bin\Debug\LFS External.exe
+C:\Users\FeaR\Desktop\[BG]Cruise\bin\Debug\LFS External.pdb
+C:\Users\FeaR\Desktop\[BG]Cruise\obj\Debug\[BG]Cruise.csprojResolveAssemblyReference.cache
+C:\Users\FeaR\Desktop\[BG]Cruise\obj\Debug\LFS_External_Client.Form1.resources
+C:\Users\FeaR\Desktop\[BG]Cruise\obj\Debug\LFS_External.Properties.Resources.resources
+C:\Users\FeaR\Desktop\[BG]Cruise\obj\Debug\[BG]Cruise.csproj.GenerateResource.Cache
+C:\Users\Hristiqn\Desktop\[BG]Cruise\obj\Debug\LFS External.exe
+C:\Users\Hristiqn\Desktop\[BG]Cruise\obj\Debug\LFS External.pdb
+C:\Users\Hristiqn\Desktop\[BG]Cruise\obj\Debug\[BG]Cruise.csprojResolveAssemblyReference.cache
+C:\Users\Hristiqn\Desktop\[BG]Cruise\obj\Debug\LFS_External_Client.Form1.resources
+C:\Users\Hristiqn\Desktop\[BG]Cruise\obj\Debug\LFS_External.Properties.Resources.resources
+C:\Users\Hristiqn\Desktop\[BG]Cruise\obj\Debug\[BG]Cruise.csproj.GenerateResource.Cache
+C:\Users\Hristiqn\Desktop\[BG]Cruise\bin\Debug\LFS External.exe
+C:\Users\Hristiqn\Desktop\[BG]Cruise\bin\Debug\LFS External.pdb
+C:\Users\FOX\Desktop\Long Cruise City\obj\Debug\LFS External.exe
+C:\Users\FOX\Desktop\Long Cruise City\obj\Debug\LFS External.pdb
+D:\For LFS\Long Cruise City\obj\Debug\LFS External.exe
+D:\For LFS\Long Cruise City\obj\Debug\LFS External.pdb
+D:\For LFS\Инсими\Long Cruise City\obj\Debug\LFS External.exe
+D:\For LFS\Инсими\Long Cruise City\obj\Debug\LFS External.pdb
+D:\For LFS\Инсими\Long Cruise City\bin\Debug\LFS External.exe
+D:\For LFS\Инсими\Long Cruise City\bin\Debug\LFS External.pdb
+D:\For LFS\Инсими\Long Cruise City\obj\Debug\[BG]Cruise.csprojResolveAssemblyReference.cache
+D:\For LFS\Инсими\Long Cruise City\obj\Debug\LFS_External_Client.Form1.resources
+D:\For LFS\Инсими\Long Cruise City\obj\Debug\LFS_External.Properties.Resources.resources
+D:\For LFS\Инсими\Long Cruise City\obj\Debug\[BG]Cruise.csproj.GenerateResource.Cache

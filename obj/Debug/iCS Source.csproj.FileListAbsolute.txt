@@ -1,0 +1,16 @@
+C:\Users\Hristiqn\Desktop\icsource\iCS Source\bin\Debug\LFS External.exe
+C:\Users\Hristiqn\Desktop\icsource\iCS Source\bin\Debug\LFS External.pdb
+C:\Users\Hristiqn\Desktop\icsource\iCS Source\obj\Debug\iCS Source.csprojResolveAssemblyReference.cache
+C:\Users\Hristiqn\Desktop\icsource\iCS Source\obj\Debug\LFS_External_Client.Form1.resources
+C:\Users\Hristiqn\Desktop\icsource\iCS Source\obj\Debug\LFS_External.Properties.Resources.resources
+C:\Users\Hristiqn\Desktop\icsource\iCS Source\obj\Debug\iCS Source.csproj.GenerateResource.Cache
+C:\Users\Hristiqn\Desktop\icsource\iCS Source\obj\Debug\LFS External.exe
+C:\Users\Hristiqn\Desktop\icsource\iCS Source\obj\Debug\LFS External.pdb
+C:\Users\Hristiqn\Desktop\gluposti\[BG]Cruise\obj\Debug\LFS External.exe
+C:\Users\Hristiqn\Desktop\gluposti\[BG]Cruise\obj\Debug\LFS External.pdb
+C:\Users\Hristiqn\Desktop\gluposti\[BG]Cruise\bin\Debug\LFS External.exe
+C:\Users\Hristiqn\Desktop\gluposti\[BG]Cruise\bin\Debug\LFS External.pdb
+C:\Users\Hristiqn\Desktop\gluposti\[BG]Cruise\obj\Debug\iCS Source.csprojResolveAssemblyReference.cache
+C:\Users\Hristiqn\Desktop\gluposti\[BG]Cruise\obj\Debug\LFS_External_Client.Form1.resources
+C:\Users\Hristiqn\Desktop\gluposti\[BG]Cruise\obj\Debug\LFS_External.Properties.Resources.resources
+C:\Users\Hristiqn\Desktop\gluposti\[BG]Cruise\obj\Debug\iCS Source.csproj.GenerateResource.Cache

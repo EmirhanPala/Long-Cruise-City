@@ -1,0 +1,7 @@
+Swear = fuck
+Swear = bitch
+Swear = motherfucker
+Swear = putka
+Swear = kur
+Swear = idiot
+Swear = laino
