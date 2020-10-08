@@ -18,5 +18,3 @@ Twitter: https://twitter.com/LfsturkeyNET
 Facebook: https://www.facebook.com/LFSTurkey.NET
 
 Youtube: https://www.youtube.com/channel/UCcvD2Y-2IOntkKL3fSEK0gg
-
-[url=https://hizliresim.com/bNl4zo][img]https://i.hizliresim.com/bNl4zo.png[/img][/url]
